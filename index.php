@@ -42,7 +42,7 @@
             JOIN US </strong></button>
     </div>
     <div>
-        <img src="Assignment.png" class="img-fluid" alt="...">
+        <img src="Assignment.png" class="img-fluid" >
     </div>
     </div>
   </div>
